@@ -1,9 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#5aa184</color>
-    <color name="colorPrimaryDark">#487b66</color>
-    <color name="colorAccent">#2b644c</color>
+<color name="colorButton">#3d5f51</color>
+<color name="colorButtonActive">#1bea95</color>
+<color name="colorPrimary">#4e57a4</color>
+<color name="textColorPrimary">#4e57a4</color>
+<color name="green_a_700">#00C853</color>
+<color name="colorPrimaryDark">#33396F</color>
+<color name="colorAccent">#673AB7</color>
+<color name="white">#FFFFFF</color>
+<color name="training">#E7F1FC</color>
+<color name="black">#000000</color>
+<color name="pagebackground">#f5f5f5</color>
+<color name="backgroung">#f5f5f5</color>
+<color name="blur_accent">#000000</color>
+<color name="grey_700">#000000</color>
+<color name="tabcolor">#5C6BC0</color>
+<color name="tool_bar_title_color">#030303</color>
+<color name="login_block_background">#80FFFFFF</color>
+<color name="red_500">#F44336</color>
+<color name="green_light">#81D4FA</color>
+<color name="transparent">#00000000</color>
+<color name="background">#FFFFFF</color>
+<color name="black_overlay">#66000000</color>
+<color name="black_over">#707270</color>
+<color name="line">#50547cb8</color>
+<color name="colorcontrol">#FFCF44</color>
+<color name="colorButtonnormal">#8A7559</color>
+<color name="colorcontrolactive">#06A92A</color>
+<color name="colorcontrolnormal">#00ABEB</color>
+<color name="text_color">#4a4a4a</color>
+<color name="brand_color">#649f11</color>
+<color name="colorwindows">#FFFFFF</color>
+<color name="backgroumd_color">#3d5e10</color>
+<color name="gold_color">#FFD700</color>
+<color name="doctor_list_background">#408EACC2</color>
+<color name="holo_red">#ff4444</color>
+<!--FMCG-->
+    <color name="background_color">#E6E6E6</color>
 
-    <color name="colorButton">#3d5f51</color>
-    <color name="colorButtonActive">#1bea95</color>
+<color name="login_holder_color">#50ffffff</color>
+<color name="login_background_color">#673AB7</color>
+<color name="login_button_color">#42b984</color>
+<color name="menu_even_color">#673AB7</color>
+<color name="menu_0dd_color">#50547cb8</color>
 </resources>

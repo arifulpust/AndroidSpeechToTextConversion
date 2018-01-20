@@ -25,16 +25,16 @@
             android:background="@drawable/drawer_menu_mackground"
             android:layout_height="match_parent"
             android:orientation="vertical">
-            <include layout="@layout/nav_header_drawer" />
-            <ListView
-                android:id="@+id/lst_menu_items"
-                android:layout_width="match_parent"
-                android:dividerHeight="0dp"
-                android:divider="@color/transparent"
-                android:scrollbars="none"
-                android:layout_height="0dp"
-                android:layout_weight="1" />
+        <include layout="@layout/nav_header_drawer" />
+        <ListView
+            android:id="@+id/lst_menu_items"
+            android:layout_width="match_parent"
+            android:dividerHeight="0dp"
+            android:divider="@color/transparent"
+            android:scrollbars="none"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
         </LinearLayout>
-    </android.support.design.widget.NavigationView>
+        </android.support.design.widget.NavigationView>
 
 </android.support.v4.widget.DrawerLayout>
